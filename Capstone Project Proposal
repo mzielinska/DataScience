@@ -1,0 +1,28 @@
+** What is the problem you want to solve **
+
+Predict pokemon occurance.
+
+Who is your client and why do they care about this problem? In other words, what will your client DO or DECIDE based on your analysis 
+that they wouldn’t have otherwise?
+
+Potential client - Obsessive Compulsive Pokemon Hunter 
+
+** What they receive?**
+
+Classified factors of pokemon appearance. Optimal locations, weather and time to catch specific pokemon types.
+
+** What data are you going to use for this? How will you acquire this data?**
+
+https://www.kaggle.com/semioniy/predictemall
+I will use dataset published on kaggle.com
+
+In brief, outline your approach to solving this problem (knowing that this might change later).
+
+** As a beginner pokemon-go player I struggled with the randomness of pokemon sightings. I believe using historical data 
+I can reveal a pattern or set of optimal factors.**
+
+Using kaggle data I want to identify important factors of pokemon sightings. 
+
+** What are your deliverables? Typically, this would include code, along with a paper and/or a slide deck.**
+
+IPython notebook file with Tableau visualization for data description and slide deck.
